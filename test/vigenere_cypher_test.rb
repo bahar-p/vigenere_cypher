@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../viginere_cypher'
+require_relative '../vigenere_cypher'
 
 class VinegereCypherTest < MiniTest::Test
 
